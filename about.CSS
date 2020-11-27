@@ -1,0 +1,19 @@
+html {
+    background-color:black;
+    color:white;
+    text-decoration-color: white;
+}
+h1 {
+    text-align: center;
+    text-decoration: wavy;
+    text-decoration-color: white;
+    padding-bottom: 160px;
+}
+nav {
+    text-align: center;
+    letter-spacing: 10px;
+}
+p  {
+    text-align:center;
+    text-decoration:wavy;
+}
