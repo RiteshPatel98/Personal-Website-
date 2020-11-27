@@ -1,0 +1,34 @@
+html {
+    background-color:black;
+    color:white;
+    text-decoration-color: white;
+    
+}
+h1 {
+    text-align:center;
+    text-decoration:wavy;
+    text-decoration-color:white;
+    padding-bottom:initial;
+}
+nav {
+    text-align: center;
+    letter-spacing: 10px;
+}
+#IG{
+   content:url(Me.jpg);
+   height:auto;
+   width:auto;
+   float:left;
+   margin: 0% 41%;
+}
+
+p   {
+    text-align:center;
+    text-decoration:wavy;
+    height:auto;
+    width:auto;
+    float:left;
+    margin:0% 41%;
+ 
+
+}
